@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.836,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Daftar_Surat_Masuk.dfm=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Surat_Masuk.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.888,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Aplikasi_Surat.dproj=C:\Users\Stevi\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.823,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Data.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.679,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Detail_Surat_Masuk.dfm=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit3.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.836,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Daftar_Surat_Masuk.pas=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Surat_Masuk.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.745,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.881,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.286,C:\Users\Stevi\Google Drive\Project\Aplikasi Surat\Unit5.dfm=C:\Users\Stevi\Google Drive\Project\Aplikasi Surat\Frame_Pengaturan_Aplikasi.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.679,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Detail_Surat_Masuk.pas=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.922,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.641,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.519,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Logo.dfm=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit5.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.604,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_User.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.561,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_User.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.091,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_User.pas=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit4.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.692,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Surat_Masuk.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.286,C:\Users\Stevi\Google Drive\Project\Aplikasi Surat\Unit5.pas=C:\Users\Stevi\Google Drive\Project\Aplikasi Surat\Frame_Pengaturan_Aplikasi.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.404,=C:\Users\Stevi\Google Drive\Project\Aplikasi Surat\Unit5.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.674,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit4.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.053,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Menu_Utama.dfm=C:\Users\Stevi\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.091,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_User.dfm=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit4.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.519,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Logo.pas=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit5.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.053,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Menu_Utama.pas=C:\Users\Stevi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.997,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit4.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.027,=C:\Users\Stevi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.664,=C:\Users\Stevi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.448,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit5.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.731,=C:\Users\Stevi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.148,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit1.pas=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Surat_Masuk.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.653,=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.148,C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Unit1.dfm=C:\Users\Stevi\Documents\RAD Studio\Projects\Aplikasi Surat\Frame_Surat_Masuk.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Data.pas"/>
+    <File Path="Data.dfm"/>
+    <File Path="Frame_Daftar_Surat_Masuk.pas"/>
+    <File Path="Frame_Daftar_Surat_Masuk.dfm"/>
+    <File Path="Frame_Detail_Surat_Masuk.pas"/>
+    <File Path="Frame_Detail_Surat_Masuk.dfm"/>
+    <File Path="Frame_Surat_Masuk.pas"/>
+    <File Path="Frame_Surat_Masuk.dfm"/>
+    <File Path="Frame_User.pas"/>
+    <File Path="Frame_User.dfm"/>
+    <File Path="Menu_Utama.pas"/>
+    <File Path="Menu_Utama.dfm"/>
+    <File Path="Frame_Logo.pas"/>
+    <File Path="Frame_Logo.dfm"/>
+    <File Path="Frame_Pengaturan_Aplikasi.pas"/>
+    <File Path="Frame_Pengaturan_Aplikasi.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
